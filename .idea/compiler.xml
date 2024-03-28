@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="sl-express-ms-dispatch-service" />
+        <module name="ms-sms-service" />
+        <module name="ms-track-api" />
+        <module name="ms-track-domain" />
+        <module name="ms-sms-api" />
+        <module name="sl-express-ms-web-driver" />
+        <module name="ms-base-service" />
+        <module name="ms-oms-domain" />
+        <module name="ms-transport-domain" />
+        <module name="sl-express-xxl-job" />
+        <module name="ms-transport-info-api" />
+        <module name="ms-oms-service" />
+        <module name="ms-carriage-domain" />
+        <module name="ms-search-api" />
+        <module name="sl-express-common" />
+        <module name="sl-express-ms-web-courier" />
+        <module name="sl-express-pay" />
+        <module name="ms-trade-domain" />
+        <module name="ms-oms-api" />
+        <module name="ms-courier-api" />
+        <module name="ms-user-api" />
+        <module name="ms-courier-domain" />
+        <module name="ms-user-service" />
+        <module name="ms-trade-service" />
+        <module name="ms-carriage-api" />
+        <module name="ms-transport-info-service" />
+        <module name="ms-work-service" />
+        <module name="ms-carriage-service" />
+        <module name="ms-sms-domain" />
+        <module name="ms-service-scope-api" />
+        <module name="ms-work-api" />
+        <module name="ms-courier-service" />
+        <module name="ms-service-scope-service" />
+        <module name="sl-express-ms-web-customer" />
+        <module name="ms-base-api" />
+        <module name="ms-driver-api" />
+        <module name="ms-transport-info-domain" />
+        <module name="ms-trade-api" />
+        <module name="ms-transport-api" />
+        <module name="sl-express-gateway" />
+        <module name="ms-search-service" />
+        <module name="ms-user-domain" />
+        <module name="ms-track-service" />
+        <module name="ms-transport-service" />
+        <module name="ms-driver-service" />
+        <module name="sl-express-mq" />
+        <module name="ms-driver-domain" />
+        <module name="ms-search-domain" />
+        <module name="ms-work-domain" />
+        <module name="sl-express-ms-web-manager" />
+        <module name="ms-base-domain" />
+        <module name="ms-service-scope-domain" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ms-dispatch-service" target="1.8" />
+      <module name="ms-servcie-scope-api" target="11" />
+      <module name="ms-web-courier" target="1.8" />
+      <module name="ms-web-customer" target="11" />
+      <module name="ms-web-driver" target="1.8" />
+      <module name="ms-web-manager" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="ms-base-api" options="" />
+      <module name="ms-base-domain" options="" />
+      <module name="ms-base-service" options="" />
+      <module name="ms-carriage-api" options="" />
+      <module name="ms-carriage-domain" options="" />
+      <module name="ms-carriage-service" options="" />
+      <module name="ms-courier-api" options="" />
+      <module name="ms-courier-domain" options="" />
+      <module name="ms-courier-service" options="" />
+      <module name="ms-dispatch-service" options="" />
+      <module name="ms-driver-api" options="" />
+      <module name="ms-driver-domain" options="" />
+      <module name="ms-driver-service" options="" />
+      <module name="ms-oms-api" options="" />
+      <module name="ms-oms-domain" options="" />
+      <module name="ms-oms-service" options="" />
+      <module name="ms-search-api" options="" />
+      <module name="ms-search-domain" options="" />
+      <module name="ms-search-service" options="" />
+      <module name="ms-servcie-scope-api" options="" />
+      <module name="ms-service-scope-domain" options="" />
+      <module name="ms-service-scope-service" options="" />
+      <module name="ms-sms-api" options="" />
+      <module name="ms-sms-domain" options="" />
+      <module name="ms-sms-service" options="" />
+      <module name="ms-track-api" options="" />
+      <module name="ms-track-domain" options="" />
+      <module name="ms-track-service" options="" />
+      <module name="ms-trade-api" options="" />
+      <module name="ms-trade-domain" options="" />
+      <module name="ms-trade-service" options="" />
+      <module name="ms-transport-api" options="" />
+      <module name="ms-transport-domain" options="" />
+      <module name="ms-transport-info-api" options="" />
+      <module name="ms-transport-info-domain" options="" />
+      <module name="ms-transport-info-service" options="" />
+      <module name="ms-transport-service" options="" />
+      <module name="ms-user-api" options="" />
+      <module name="ms-user-domain" options="" />
+      <module name="ms-user-service" options="" />
+      <module name="ms-web-courier" options="" />
+      <module name="ms-web-customer" options="" />
+      <module name="ms-web-driver" options="" />
+      <module name="ms-web-manager" options="" />
+      <module name="ms-work-api" options="" />
+      <module name="ms-work-domain" options="" />
+      <module name="ms-work-service" options="" />
+      <module name="sl-express-gateway" options="" />
+      <module name="sl-express-mq" options="" />
+      <module name="sl-express-pay" options="" />
+      <module name="sl-express-xxl-job" options="" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5651bced-109b-4898-b940-96278956b92e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/project-slwl-back-code/document/产品相关文档/业务功能说明视频/1主流程业务.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-slwl-back-code/document/产品相关文档/业务功能说明视频/2基础数据维护业务讲解.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-slwl-back-code/document/产品相关文档/业务功能说明视频/3-1下单流程业务.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-slwl-back-code/document/产品相关文档/业务功能说明视频/3-2取件流程业务.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-slwl-back-code/document/产品相关文档/业务功能说明视频/3-3运输流程业务.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-slwl-back-code/document/产品相关文档/业务功能说明视频/3-4派件流程业务.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-slwl-back-code/document/软件包/VMware-Fusion/VMware-Fusion-13.0.1-21139760_universal.dmg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-slwl-back-code/document/软件包/finalshell_install.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-slwl-back-code/document/软件包/uTools-2.6.3.exe" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
+  </component>
+  <component name="JavaAutoRunManager">
+    <enabled-run-configurations>
+      <run-configuration type="JUnit" name="CarriageServiceImplTest.name" />
+    </enabled-run-configurations>
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\Maven\maven-repo" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../Maven/apache-maven-3.9.1" />
+        <option name="userSettingsFile" value="D:\Project\sl-express\project-slwl-back-code\config\maven\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2dDvzBUE7l1ZpEgcFyJZOerePTE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.QRCodeServiceImpl.executor": "Run",
+    "JUnit.AliBasicPayHandlerTest.queryTrading.executor": "Run",
+    "JUnit.AliNativePayHandlerTest.createDownLineTrading.executor": "Run",
+    "JUnit.AuthTemplateTest.checkToken.executor": "Run",
+    "JUnit.AuthTemplateTest.testLogin.executor": "Run",
+    "JUnit.CarriageChainHandlerTest.findCarriage.executor": "Debug",
+    "JUnit.CarriageServiceImplTest.findAll.executor": "Run",
+    "JUnit.CarriageServiceImplTest.findByTemplateType.executor": "Run",
+    "JUnit.CarriageServiceImplTest.name.executor": "Debug",
+    "JUnit.CarriageServiceImplTest.saveOrUpdate.executor": "Run",
+    "JUnit.NativePayServiceTest.createDownLineTrading.executor": "Run",
+    "JUnit.NativePayServiceTest.createDownLineTradingRedissonLock.executor": "Run",
+    "JUnit.TradeJobTest.refundJob.executor": "Run",
+    "JUnit.TradeJobTest.tradingJob.executor": "Run",
+    "JUnit.WechatBasicPayHandlerTest.queryTrading.executor": "Run",
+    "JUnit.WechatNativePayHandlerTest.createDownLineTrading.executor": "Run",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.CarriageApplication.executor": "Run",
+    "Spring Boot.CourierApplication.executor": "Run",
+    "Spring Boot.GatewayApplication.executor": "Run",
+    "Spring Boot.MsBaseServiceApplication.executor": "Run",
+    "Spring Boot.MsCourierServiceApplication.executor": "Run",
+    "Spring Boot.MsDispatchServiceApplication.executor": "Run",
+    "Spring Boot.MsDriverServiceApplication.executor": "Run",
+    "Spring Boot.MsOmsServiceApplication.executor": "Run",
+    "Spring Boot.MsSearchServiceApplication.executor": "Run",
+    "Spring Boot.MsTrackServiceApplication.executor": "Run",
+    "Spring Boot.MsWebCourierApplication.executor": "Run",
+    "Spring Boot.MsWebCustomerApplication.executor": "Run",
+    "Spring Boot.MsWebManagerApplication.executor": "Run",
+    "Spring Boot.MsWorkServiceApplication.executor": "Run",
+    "Spring Boot.SlExpressGatewayApplication.executor": "Run",
+    "Spring Boot.TradeApplication.executor": "Run",
+    "Spring Boot.WebCustomerApplication.executor": "Run",
+    "Spring Boot.XxlJobApplication.executor": "Run",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "git-widget-placeholder": "master",
+    "jdk.selected.JAVA_MODULE": "11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/Project/sl-express",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "npm.dev.executor": "Run",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.14634146",
+    "project.structure.side.proportion": "0.33448276",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "MavenSettings",
+    "ts.external.directory.path": "D:\\Project\\sl-express\\project-slwl-admin-vue\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql",
+      "redis"
+    ]
+  }
+}]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\sl-express" />
+      <recent name="D:\Project\sl-express\project-slwl-back-code\sl-express-ms-carriage\ms-carriage-service\src\main\resources" />
+      <recent name="D:\Project\sl-express\project-slwl-back-code\sl-express-ms-carriage\ms-carriage-service\src\main\java\com\sigma429\sl" />
+      <recent name="D:\Project\sl-express\project-slwl-back-code\sl-express-xxl-job\src\main\java\com\sigma429\sl" />
+      <recent name="D:\Project\sl-express\project-slwl-back-code\sl-express-xxl-job\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Project\sl-express\project-slwl-back-code\document" />
+      <recent name="D:\Project\sl-express\project-slwl-back-code" />
+      <recent name="D:\Project\sl-express\project-slwl-back-code\sl-express-work" />
+      <recent name="D:\Project\sl-express\project-slwl-back-code\sl-express-user" />
+      <recent name="D:\Project\sl-express\project-slwl-back-code\sl-express-transport-info" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.sigma429.sl" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.sigma429.sl.service.impl" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com.sigma429.sl.mapper" />
+      <recent name="com.sigma429.sl.service" />
+      <recent name="com.sigma429.sl.job" />
+      <recent name="com.sigma429.sl.config" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="Application" />
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.CarriageChainHandlerTest.findCarriage">
+    <configuration name="CarriageChainHandlerTest.findCarriage" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ms-carriage-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sigma429.sl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sigma429.sl" />
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.sl.CarriageChainHandlerTest" />
+      <option name="METHOD_NAME" value="findCarriage" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarriageServiceImplTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ms-carriage-service" />
+      <option name="PACKAGE_NAME" value="com.sigma429.sl" />
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.sl.CarriageServiceImplTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarriageServiceImplTest.findByTemplateType" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ms-carriage-service" />
+      <option name="PACKAGE_NAME" value="com.sigma429.sl" />
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.sl.CarriageServiceImplTest" />
+      <option name="METHOD_NAME" value="findByTemplateType" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarriageServiceImplTest.name" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ms-carriage-service" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sigma429.sl.service.impl.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.sigma429.sl.service.impl" />
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.sl.service.impl.CarriageServiceImplTest" />
+      <option name="METHOD_NAME" value="name" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarriageServiceImplTest.saveOrUpdate" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ms-carriage-service" />
+      <option name="PACKAGE_NAME" value="com.sigma429.sl" />
+      <option name="MAIN_CLASS_NAME" value="com.sigma429.sl.CarriageServiceImplTest" />
+      <option name="METHOD_NAME" value="saveOrUpdate" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarriageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-carriage-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.CarriageApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CourierApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-courier-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.CourierApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsBaseServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-base-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.MsBaseServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsDispatchServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sl-express-ms-dispatch-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.MsDispatchServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsDriverServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-driver-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.MsDriverServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsOmsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-oms-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.MsOmsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsSearchServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-search-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.MsSearchServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsServiceScopeServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-service-scope-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.MsServiceScopeServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsSmsServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-sms-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.MsSmsServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsTrackServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-track-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.MsTrackServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsTransportInfoServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-transport-info-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.MsTransportInfoServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsTransportServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-transport-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.MsTransportServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsWebCourierApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sl-express-ms-web-courier" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.MsWebCourierApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsWebDriverApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sl-express-ms-web-driver" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.MsWebDriverApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsWebManagerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="sl-express-ms-web-manager" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.MsWebManagerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MsWorkServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-work-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.MsWorkServiceApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TradeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-trade-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.TradeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="ms-user-service" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.sigma429.sl.UserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CarriageChainHandlerTest.findCarriage" />
+        <item itemvalue="JUnit.CarriageServiceImplTest.saveOrUpdate" />
+        <item itemvalue="JUnit.CarriageServiceImplTest.findAll" />
+        <item itemvalue="JUnit.CarriageServiceImplTest.findByTemplateType" />
+        <item itemvalue="JUnit.CarriageServiceImplTest.name" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-corretto-11.0.22-3183f394aec4-cd32a1c5" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5651bced-109b-4898-b940-96278956b92e" name="Changes" comment="" />
+      <created>1709555723536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709555723536</updated>
+      <workItem from="1709555724624" duration="3300000" />
+      <workItem from="1709598060374" duration="1813000" />
+      <workItem from="1709600348291" duration="7836000" />
+      <workItem from="1709619887206" duration="39198000" />
+      <workItem from="1709727941946" duration="2492000" />
+      <workItem from="1709730475020" duration="153000" />
+      <workItem from="1709902705884" duration="429000" />
+      <workItem from="1709991079660" duration="1402000" />
+      <workItem from="1710423942416" duration="2134000" />
+      <workItem from="1710502752877" duration="330000" />
+      <workItem from="1710506324717" duration="6119000" />
+      <workItem from="1710600370106" duration="201000" />
+      <workItem from="1710685142410" duration="81000" />
+      <workItem from="1711008473391" duration="12099000" />
+      <workItem from="1711073785702" duration="2884000" />
+      <workItem from="1711102293415" duration="10969000" />
+      <workItem from="1711202760356" duration="239000" />
+      <workItem from="1711265239905" duration="16777000" />
+      <workItem from="1711351523288" duration="5140000" />
+      <workItem from="1711357558480" duration="310000" />
+      <workItem from="1711357872625" duration="1305000" />
+      <workItem from="1711362658465" duration="12569000" />
+      <workItem from="1711432578557" duration="23391000" />
+      <workItem from="1711462502937" duration="601000" />
+      <workItem from="1711502663572" duration="3468000" />
+      <workItem from="1711526462274" duration="7121000" />
+      <workItem from="1711543645135" duration="7439000" />
+      <workItem from="1711596879908" duration="2767000" />
+      <workItem from="1711599677510" duration="4228000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
